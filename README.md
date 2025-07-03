@@ -1,5 +1,5 @@
 # Tableau-Project
-IMDb Insights Dashboard: Rating & Engagement Analysis (Tableau)
+## IMDb Insights Dashboard: Rating & Engagement Analysis (Tableau)
 This repository presents a comprehensive Tableau dashboard analyzing the IMDb movie dataset, with a focus on audience engagement and movie performance metrics. The project provides insights into:
 
 Highest-rated films and the movies receiving the most user votes.
